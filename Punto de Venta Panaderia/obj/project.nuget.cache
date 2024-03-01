@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cnQsmU9GeIsjAqyFzZ+TtbO+hv59KdUElYWjbSC0sTzswUat658nFssHRT6OGsIgBOFpXDqGDAT9roe95rwaog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Romario Rodriguez\\Documents\\WPF 4° Semestre\\Punto de Venta Panaderia\\Punto de Venta Panaderia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Romario Rodriguez\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}

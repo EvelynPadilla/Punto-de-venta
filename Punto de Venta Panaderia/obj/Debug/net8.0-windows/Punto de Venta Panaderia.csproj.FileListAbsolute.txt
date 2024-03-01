@@ -1,0 +1,21 @@
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia_MarkupCompile.cache
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\bin\Debug\net8.0-windows\Punto de Venta Panaderia.exe
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\bin\Debug\net8.0-windows\Punto de Venta Panaderia.deps.json
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\bin\Debug\net8.0-windows\Punto de Venta Panaderia.runtimeconfig.json
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\bin\Debug\net8.0-windows\Punto de Venta Panaderia.dll
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\bin\Debug\net8.0-windows\Punto de Venta Panaderia.pdb
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia_MarkupCompile.lref
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia.g.resources
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia.AssemblyInfoInputs.cache
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia.AssemblyInfo.cs
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia.csproj.CoreCompileInputs.cache
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia.dll
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\refint\Punto de Venta Panaderia.dll
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia.pdb
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia.genruntimeconfig.cache
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\ref\Punto de Venta Panaderia.dll
+C:\Users\Romario Rodriguez\Documents\WPF 4° Semestre\Punto de Venta Panaderia\obj\Debug\net8.0-windows\Punto de Venta Panaderia.csproj.AssemblyReference.cache
